@@ -1,0 +1,107 @@
+html,body,p{
+    margin: 0;
+    padding: 0;
+  }
+  .parent1{
+   
+    text-align: center; 
+    display: flex;
+   justify-content: center;
+   
+  }
+  body{
+    background-color: rgb(238, 238, 222);
+   
+  }
+  .box{
+      box-sizing: content-box;
+      width: 250px;
+     height: 400px;
+     padding: 20px;  
+     border: 1px solid rgb(211, 170, 116);
+     margin-bottom: 10px;
+     display: inline-block;
+     background-color: white;
+     margin-right: 10px;
+     
+   }
+   .box1{
+      box-sizing: content-box;
+      width: 250px;
+     height: 400px;
+     padding: 20px;  
+     border: 1px solid rgb(211, 170, 116);
+     margin-bottom: 10px;
+     display: inline-block;
+     background-color: white;
+     margin-right: 10px;
+     
+   }
+     
+   .box2{
+      box-sizing: content-box;
+      width: 250px;
+     height: 400px;
+     padding: 20px;  
+     border: 1px solid rgb(211, 170, 116);
+     margin-bottom: 10px;
+     display: inline-block;
+     background-color: white;
+     margin-right: 10px;
+     
+   }
+     
+   .box3{
+      box-sizing: content-box;
+      width: 250px;
+     height: 400px;
+     padding: 20px;  
+     border: 1px solid rgb(211, 170, 116);
+     margin-bottom: 10px;
+     display: inline-block;
+     background-color: white;
+     margin-right: 10px;
+     
+   }
+     
+   .box4{
+    box-sizing: content-box;
+    width: 250px;
+   height: 400px;
+   padding: 20px;  
+   border: 1px solid rgb(211, 170, 116);
+   margin-bottom: 10px;
+   display: inline-block;
+   background-color: white;
+   
+   }
+   #nav{
+   background-color: goldenrod;
+   color: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  word-spacing: 0px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  
+   }
+  .nav-item1{
+    background-color: peru;
+    
+  }
+  .nav-item2{
+    background-color: peru;
+  }
+  .nav-item3{
+    background-color: peru;
+  }
+  .nav-item4{
+    background-color: peru;
+  }
+a {
+  text-decoration: none;
+  color: white;
+}
+  
